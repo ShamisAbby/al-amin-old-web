@@ -1,0 +1,16 @@
+[24-Mar-2021 18:04:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alaminfo_user'@'localhost' (using password: YES) in /home/alaminfoundation/public_html/php/connection.php on line 17
+[24-Mar-2021 18:37:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alaminfo_user'@'localhost' (using password: YES) in /home/alaminfoundation/public_html/php/connection.php on line 17
+[24-Mar-2021 18:40:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alaminfo_db'@'localhost' (using password: YES) in /home/alaminfoundation/public_html/php/connection.php on line 17
+[25-Mar-2021 07:05:11 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 36
+[25-Mar-2021 07:07:15 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 36
+[25-Mar-2021 07:22:32 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:25:57 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:26:44 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:28:01 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:28:48 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:57:38 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:58:09 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:58:55 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 07:59:29 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 14:34:03 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37
+[25-Mar-2021 14:34:35 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/alaminfoundation/public_html/php/add.php on line 37

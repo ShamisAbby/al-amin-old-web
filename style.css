@@ -1,0 +1,39 @@
+body{
+	font-family:Times New Roman;
+}
+
+
+.top{
+	background-color: black;
+}
+.row{
+	background-color: black;
+	padding: 10px 
+}
+
+
+.top-bar span a{
+	font-size: 14px;
+	padding: 1px 10px;
+	color: white;
+	text-decoration: none;
+}
+
+.top-bar span a:hover{
+	color: red;
+	transition: 3s;
+}
+
+
+.navbar-nav .nav-link{
+	color: black !important;
+	font-size: 14px;
+	margin: 6px;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+
+.row{ display: none; }
+
